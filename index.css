@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+.datecounter {
+  background-color: lightcoral;
+  width: 25rem;
+  height: 14rem;
+  margin: 4rem 30rem;
+}
+
+h3 {
+  color: rgb(65, 65, 149);
+  margin: 1rem 7.8rem;
+  padding-top: 2rem;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-around;
+  padding: 0.5rem;
+}
+p {
+  text-align: center;
+}
